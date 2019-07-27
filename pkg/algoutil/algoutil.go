@@ -24,11 +24,11 @@ import (
 	"strings"
 	"time"
 
-	"github.com/lonng/nanoserver/pkg/errutil"
+	"github.com/yearnfar/nanoserver/pkg/errutil"
 	"golang.org/x/text/encoding/simplifiedchinese"
 	"golang.org/x/text/transform"
 	//"triple/modules/security"
-	"github.com/lonng/nanoserver/pkg/crypto"
+	"github.com/yearnfar/nanoserver/pkg/crypto"
 )
 
 //MD5String md5 digest in string

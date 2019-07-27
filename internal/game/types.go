@@ -3,7 +3,7 @@ package game
 import (
 	"fmt"
 
-	"github.com/lonng/nanoserver/internal/game/mahjong"
+	"github.com/yearnfar/nanoserver/internal/game/mahjong"
 )
 
 type scoreChangeInfo struct {

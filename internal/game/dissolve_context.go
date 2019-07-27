@@ -4,8 +4,8 @@ import (
 	"time"
 
 	"github.com/lonng/nano/scheduler"
-	"github.com/lonng/nanoserver/pkg/constant"
-	"github.com/lonng/nanoserver/protocol"
+	"github.com/yearnfar/nanoserver/pkg/constant"
+	"github.com/yearnfar/nanoserver/protocol"
 )
 
 // 房间解散统计

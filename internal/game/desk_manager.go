@@ -6,12 +6,12 @@ import (
 	"time"
 
 	"github.com/lonng/nano/scheduler"
-	"github.com/lonng/nanoserver/db"
-	"github.com/lonng/nanoserver/pkg/async"
-	"github.com/lonng/nanoserver/pkg/constant"
-	"github.com/lonng/nanoserver/pkg/errutil"
-	"github.com/lonng/nanoserver/pkg/room"
-	"github.com/lonng/nanoserver/protocol"
+	"github.com/yearnfar/nanoserver/db"
+	"github.com/yearnfar/nanoserver/pkg/async"
+	"github.com/yearnfar/nanoserver/pkg/constant"
+	"github.com/yearnfar/nanoserver/pkg/errutil"
+	"github.com/yearnfar/nanoserver/pkg/room"
+	"github.com/yearnfar/nanoserver/protocol"
 
 	"github.com/lonng/nano/component"
 	"github.com/lonng/nano/session"

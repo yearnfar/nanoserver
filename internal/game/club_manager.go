@@ -1,10 +1,10 @@
 package game
 
 import (
-	"github.com/lonng/nanoserver/protocol"
+	"github.com/yearnfar/nanoserver/protocol"
 
-	"github.com/lonng/nanoserver/db"
-	"github.com/lonng/nanoserver/pkg/async"
+	"github.com/yearnfar/nanoserver/db"
+	"github.com/yearnfar/nanoserver/pkg/async"
 
 	"github.com/lonng/nano/component"
 	"github.com/lonng/nano/session"

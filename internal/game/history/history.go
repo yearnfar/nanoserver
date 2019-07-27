@@ -5,9 +5,9 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/lonng/nanoserver/db"
-	"github.com/lonng/nanoserver/db/model"
-	"github.com/lonng/nanoserver/protocol"
+	"github.com/yearnfar/nanoserver/db"
+	"github.com/yearnfar/nanoserver/db/model"
+	"github.com/yearnfar/nanoserver/protocol"
 )
 
 type SnapShot struct {

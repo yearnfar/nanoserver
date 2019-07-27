@@ -3,7 +3,7 @@ package mahjong
 import (
 	"testing"
 
-	"github.com/lonng/nanoserver/protocol"
+	"github.com/yearnfar/nanoserver/protocol"
 )
 
 func _TestBase_CanWinBySelfDrawing(t *testing.T) {

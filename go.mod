@@ -1,4 +1,4 @@
-module github.com/lonng/nanoserver
+module github.com/yearnfar/nanoserver
 
 replace (
 	golang.org/x/crypto => github.com/golang/crypto v0.0.0-20181001203147-e3636079e1a4
@@ -9,18 +9,24 @@ replace (
 
 require (
 	github.com/chanxuehong/rand v0.0.0-20180830053958-4b3aff17f488 // indirect
+	github.com/denisenkom/go-mssqldb v0.0.0-20190724012636-11b2859924c1 // indirect
 	github.com/go-sql-driver/mysql v1.4.0
 	github.com/go-xorm/core v0.6.0
 	github.com/go-xorm/xorm v0.7.0
+	github.com/gorilla/context v1.1.1 // indirect
 	github.com/gorilla/mux v1.6.2
+	github.com/kr/pretty v0.1.0 // indirect
+	github.com/lib/pq v1.2.0 // indirect
 	github.com/lonng/nano v0.4.1-0.20190704005402-15209d995681
 	github.com/lonng/nex v1.4.1
+	github.com/mattn/go-sqlite3 v1.11.0 // indirect
 	github.com/pborman/uuid v1.2.0
 	github.com/pkg/errors v0.8.0
-	github.com/sirupsen/logrus v1.1.0
+	github.com/sirupsen/logrus v1.2.0
 	github.com/spf13/viper v1.2.1
 	github.com/urfave/cli v1.20.1-0.20190203184040-693af58b4d51
 	github.com/xxtea/xxtea-go v0.0.0-20170828040851-35c4b17eecf6
+	github.com/ziutek/mymysql v1.5.4 // indirect
 	golang.org/x/crypto v0.0.0-20190510104115-cbcb75029529
 	golang.org/x/net v0.0.0-20190509222800-a4d6f7feada5
 	golang.org/x/text v0.3.2

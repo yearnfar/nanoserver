@@ -7,8 +7,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/lonng/nanoserver/internal/game"
-	"github.com/lonng/nanoserver/internal/web"
+	"github.com/yearnfar/nanoserver/internal/game"
+	"github.com/yearnfar/nanoserver/internal/web"
 
 	_ "github.com/go-sql-driver/mysql"
 	log "github.com/sirupsen/logrus"

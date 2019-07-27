@@ -4,11 +4,11 @@ import (
 	"fmt"
 
 	"github.com/lonng/nano/session"
-	"github.com/lonng/nanoserver/db"
-	"github.com/lonng/nanoserver/db/model"
-	"github.com/lonng/nanoserver/internal/game/mahjong"
-	"github.com/lonng/nanoserver/pkg/async"
-	"github.com/lonng/nanoserver/protocol"
+	"github.com/yearnfar/nanoserver/db"
+	"github.com/yearnfar/nanoserver/db/model"
+	"github.com/yearnfar/nanoserver/internal/game/mahjong"
+	"github.com/yearnfar/nanoserver/pkg/async"
+	"github.com/yearnfar/nanoserver/protocol"
 	log "github.com/sirupsen/logrus"
 )
 

@@ -3,9 +3,9 @@ package db
 import (
 	"strings"
 
-	"github.com/lonng/nanoserver/db/model"
-	"github.com/lonng/nanoserver/pkg/algoutil"
-	"github.com/lonng/nanoserver/pkg/errutil"
+	"github.com/yearnfar/nanoserver/db/model"
+	"github.com/yearnfar/nanoserver/pkg/algoutil"
+	"github.com/yearnfar/nanoserver/pkg/errutil"
 )
 
 const (

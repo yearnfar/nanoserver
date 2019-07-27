@@ -2,7 +2,7 @@ package game
 
 import (
 	"github.com/lonng/nano/scheduler"
-	"github.com/lonng/nanoserver/protocol"
+	"github.com/yearnfar/nanoserver/protocol"
 
 	"time"
 

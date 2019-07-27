@@ -1,7 +1,7 @@
 package protocol
 
 import (
-	"github.com/lonng/nanoserver/pkg/constant"
+	"github.com/yearnfar/nanoserver/pkg/constant"
 )
 
 type GetRankInfoRequest struct {

@@ -5,7 +5,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/lonng/nanoserver/db"
+	"github.com/yearnfar/nanoserver/db"
 )
 
 const (

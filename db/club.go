@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/lonng/nanoserver/db/model"
+	"github.com/yearnfar/nanoserver/db/model"
 )
 
 func IsClubMember(clubId, uid int64) bool {

@@ -1,7 +1,7 @@
 package mahjong
 
 import (
-	"github.com/lonng/nanoserver/protocol"
+	"github.com/yearnfar/nanoserver/protocol"
 )
 
 func NewStats(indexes ...Indexes) *Stats {

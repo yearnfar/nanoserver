@@ -6,7 +6,7 @@ import (
 	"math/rand"
 	"time"
 
-	"github.com/lonng/nanoserver/protocol"
+	"github.com/yearnfar/nanoserver/protocol"
 )
 
 const (

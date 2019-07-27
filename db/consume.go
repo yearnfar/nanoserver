@@ -1,8 +1,8 @@
 package db
 
 import (
-	"github.com/lonng/nanoserver/db/model"
-	"github.com/lonng/nanoserver/protocol"
+	"github.com/yearnfar/nanoserver/db/model"
+	"github.com/yearnfar/nanoserver/protocol"
 	log "github.com/sirupsen/logrus"
 	"strconv"
 	"time"
